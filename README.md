@@ -30,7 +30,7 @@ You can invoke these as slash commands (e.g. `/audio-plugin-validators:validate-
 
 ### Requirements
 
-- **auval**: Included with macOS (Xcode Command Line Tools)
+- **auval**: Included with macOS
 - **VST3 validator**: Build from [VST3 SDK](https://github.com/steinbergmedia/vst3sdk) or use pre-built
 - **clap-validator**: [Download](https://github.com/free-audio/clap-validator/releases) or build with Cargo
 - **pluginval**: [Download](https://github.com/Tracktion/pluginval/releases)
