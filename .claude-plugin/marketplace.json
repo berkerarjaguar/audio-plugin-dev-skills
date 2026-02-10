@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "audio-plugin-dev-skills",
+  "owner": {
+    "name": "Oli Larkin",
+    "email": "contact@olilarkin.com"
+  },
+  "metadata": {
+    "description": "Claude Code skills for audio plugin development.",
+    "version": "0.1.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "audio-plugin-validators",
+      "source": "./plugins/audio-plugin-validators",
+      "description": "Validate VST3, AudioUnit, and CLAP plugins using official and third-party tools.",
+      "category": "development"
+    }
+  ]
+}

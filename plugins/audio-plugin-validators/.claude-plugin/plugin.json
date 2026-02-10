@@ -1,0 +1,10 @@
+{
+  "name": "audio-plugin-validators",
+  "version": "0.1.0",
+  "description": "Validate VST3, AudioUnit, and CLAP plugins using official and third-party tools (auval, VST3 validator, clap-validator, pluginval, EditorHost).",
+  "author": {
+    "name": "Oli Larkin"
+  },
+  "repository": "https://github.com/iPlug3/audio-plugin-dev-skills",
+  "keywords": ["audio", "plugin", "vst3", "audiounit", "clap", "validation"]
+}
